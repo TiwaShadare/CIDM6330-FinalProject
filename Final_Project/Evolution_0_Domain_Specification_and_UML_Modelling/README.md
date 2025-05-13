@@ -16,6 +16,7 @@ The prototype will be similar to Indeed or ZipRecruiter but with a more streamli
 
 # UML Diagrams
 ## Activity Diagrams
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/877fbe5e-2c7b-46b2-8744-6b61c038fce7" />
 
 ### Class Diagram  
 ![image](https://github.com/user-attachments/assets/fa1ec7f2-3b2e-49a4-8942-0efdc2a8de58)  
