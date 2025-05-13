@@ -1,4 +1,4 @@
-# Domain Specification and UML Design
+# Domain Specification and UML Design (Human Resource Management System)
 ## Problem  
 Quite a number of recent college graduates and candidates are tired of endlessly searching for a job. They send out hundreds of applications monthly without receiving a single interview invite. At the same time, recruiters are also struggling to find qualified candidates for the open roles they have in their organization. A recruitment software that links recruiters to the right candidate and streamline the employment process will solve this problem.  
 A Recruitment System - A system that links qualified candidates to job opportunities that suit their particular skillset and experience. It equally links recruiters to the right candidates.  
